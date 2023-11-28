@@ -1,0 +1,27 @@
+[
+    {
+      "ID": 201,
+      "ID_Paciente": 101,
+      "Fecha_Visita": "2023-03-05",
+      "Diagnóstico": "Gripe común",
+      "Tratamiento": "Descanso y líquidos",
+      "Notas": "El paciente se recupera satisfactoriamente."
+    },
+    {
+      "ID": 202,
+      "ID_Paciente": 102,
+      "Fecha_Visita": "2023-04-10",
+      "Diagnóstico": "Dolor de espalda",
+      "Tratamiento": "Fisioterapia",
+      "Notas": "Se programaron sesiones de fisioterapia."
+    },
+    {
+      "ID": 203,
+      "ID_Paciente": 103,
+      "Fecha_Visita": "2023-03-20",
+      "Diagnóstico": "Hipertensión",
+      "Tratamiento": "Medicación y dieta",
+      "Notas": "El paciente necesita seguimiento regular."
+    }
+  ]
+  

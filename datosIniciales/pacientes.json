@@ -1,0 +1,29 @@
+[
+  {
+    "ID": 101,
+    "Nombre": "Alejandra",
+    "Apellido": "Gómez",
+    "Nacimiento": "1988-05-20",
+    "Género": "F",
+    "Dirección": "Calle 789, Ciudad C",
+    "Telefono": "+1112233445"
+  },
+  {
+    "ID": 102,
+    "Nombre": "Carlos",
+    "Apellido": "López",
+    "Nacimiento": "1990-11-15",
+    "Género": "M",
+    "Dirección": "Avenida X, Ciudad Y",
+    "Telefono": "+9876543210"
+  },
+  {
+    "ID": 103,
+    "Nombre": "Luisa",
+    "Apellido": "Hernández",
+    "Nacimiento": "2000-03-10",
+    "Género": "F",
+    "Dirección": "Calle 456, Ciudad A",
+    "Telefono": "+5556667777"
+  }
+]

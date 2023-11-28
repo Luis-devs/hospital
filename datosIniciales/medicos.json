@@ -1,0 +1,27 @@
+[
+    {
+      "ID": 301,
+      "Nombre": "Dr. Laura",
+      "Apellido": "Sánchez",
+      "Especialidad": "Dermatología",
+      "Telefono": "+1234567890",
+      "correo": "dr.laura@example.com"
+    },
+    {
+      "ID": 302,
+      "Nombre": "Dra. Alejandro",
+      "Apellido": "Martínez",
+      "Especialidad": "Neurología",
+      "Telefono": "+9876543210",
+      "correo": "dra.alejandro@example.com"
+    },
+    {
+      "ID": 303,
+      "Nombre": "Dr. Carmen",
+      "Apellido": "González",
+      "Especialidad": "Oftalmología",
+      "Telefono": "+5556667777",
+      "correo": "dr.carmen@example.com"
+    }
+  ]
+  

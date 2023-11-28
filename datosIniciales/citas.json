@@ -1,0 +1,27 @@
+[
+    {
+      "ID": 401,
+      "ID_Paciente": 101,
+      "ID_Médico": 301,
+      "Fecha_Cita": "2023-04-15",
+      "Hora_Cita": "10:30 AM",
+      "Razón_Cita": "Consulta de dermatología"
+    },
+    {
+      "ID": 402,
+      "ID_Paciente": 102,
+      "ID_Médico": 302,
+      "Fecha_Cita": "2023-04-20",
+      "Hora_Cita": "3:00 PM",
+      "Razón_Cita": "Examen neurológico"
+    },
+    {
+      "ID": 403,
+      "ID_Paciente": 103,
+      "ID_Médico": 303,
+      "Fecha_Cita": "2023-04-18",
+      "Hora_Cita": "11:45 AM",
+      "Razón_Cita": "Control oftalmológico"
+    }
+  ]
+  
